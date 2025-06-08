@@ -34,7 +34,6 @@
     "passport": "^0.7.0",
     "passport-discord": "^0.1.4",
     "pino": "^9.7.0",
-    "pino-http": "^10.5.0",
     "pino-pretty": "^11.1.0"
   },
   "devDependencies": {
